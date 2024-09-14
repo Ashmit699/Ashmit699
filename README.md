@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning python and no code low code web developement and more to be teacher contact me
 - 💞️ I’m looking to collaborate on making a projject application and sell it
 - 📫 How to reach me gmail videoashmit.gmail.com or videoashmit@outlook.com wait max 3days
-- 😄 Pronouns: no thanks
-- ⚡ Fun fact: none
+- 😄 Pronouns: Techie
+- ⚡ Fun fact: Knowledge in computing, software, robotics, ai
 
 <!---
 Ashmit699/Ashmit699 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
